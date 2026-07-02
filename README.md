@@ -1,41 +1,46 @@
 <div align="center">
-  <h1>Hi, I'm Prathamesh Kalkute <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="25px"></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prathamesh+Kalkute;Founding+Engineer;Backend+%26+AI+Systems;Polyglot+Developer" alt="Typing SVG" />
   
-  <p><strong>Founding Engineer | Backend & AI Systems Engineer | Polyglot Developer</strong></p>
-  
-  <p>Building 0-to-1 platforms that handle scale. Specialized in authentication layers, real-time networking engines, and NLP-powered data pipelines.</p>
-  
-  <br>
-  
-  <a href="https://linkedin.com/in/prathameshkalkute31"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:prathameshkalkute@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <p><b>Building 0-to-1 platforms that handle scale. Specialized in authentication layers, real-time networking engines, and NLP-powered data pipelines.</b></p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshkalkute31)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshkalkute@email.com)
 </div>
 
-<br>
+---
 
-### 🛠️ What I Do
+### 🚀 About Me
 
-I don't just write code; I think in systems. Currently building the core infrastructure and AI differentiator at **TheNoah.ai**. I move fluidly across Java, Python, and JavaScript ecosystems to pick the right tool for the problem. 
+I don't just write code; I think in systems. Currently building the core infrastructure and AI differentiator at **TheNoah.ai**. I move fluidly across ecosystems to pick the right tool for the problem. 
 
-- 🚀 **Core Focus**: Distributed Systems, Identity & Auth, Real-Time Networking, and AI Integrations (LLM & NLP).
-- 💻 **Tech Stack**: Java, Python, TypeScript/JavaScript, Spring Boot, Node.js, React, Apache Spark.
-- 🗄️ **Data & Infrastructure**: MongoDB, MySQL, Docker, Microservices, Event-Driven Architecture.
-- 📍 **Based in**: Pune, India.
+- 🔭 **Current Focus:** Distributed Systems, Identity & Auth, Real-Time Networking, and AI Integrations (LLM & NLP).
+- 🧠 **Architecture:** Event-Driven Systems, Microservices, Heap Memory Optimization, OOM Recovery.
+- 💻 **Experience:** 1.5+ years of intense, high-impact engineering—operating at the level of a senior engineer. 
+- 📍 **Based in:** Pune, India.
 
-<br>
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,spring,nodejs,express,fastapi,react,mongodb,mysql,firebase,docker,github,linux&perline=8" alt="Tech Stack" />
+</div>
+
+---
 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prathamesh7291&show_icons=true&hide_border=true&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Prathamesh7291&show_icons=true&hide_border=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh7291&show_icons=true&hide_border=true&theme=default" height="150" alt="GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh7291&layout=compact&hide_border=true&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh7291&layout=compact&hide_border=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh7291&layout=compact&hide_border=true&theme=default" height="150" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/Prathamesh7291">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh7291&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Prathamesh7291">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh7291&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Prathamesh7291">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh7291&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
