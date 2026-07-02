@@ -38,12 +38,6 @@ I don't just write code; I think in systems. Currently building the core infrast
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prathamesh7291&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&icon_color=2196F3" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Prathamesh7291">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathamesh7291&layout=compact&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Prathamesh7291">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh7291&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2196F3&sideLabels=2196F3&dates=C9D1D9" alt="GitHub Streak" />
   </a>
 </div>
